@@ -29,4 +29,6 @@ CREATE TABLE students (
 
 (5) There are no compilation steps. You can simply run the program by typing "python app.py" or by clicking the run button if you are using Visual Studio Code
 
-(6) You can change the queries you want to execute in the main function of the program to test the program however you want. The operations you can test are adding new record, updating new record, deleting a record and printing a record.
+(6) You can change the queries you want to execute in the main function of the program to test the program however you want. The operations you can test are adding new record, updating new record, deleting a record and printing a record. 
+
+(7) While testing the update and delete functions, change the id to match with your database
